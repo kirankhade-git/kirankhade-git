@@ -1,6 +1,6 @@
 Hi i'm kiran khade👋
 
- learning Blockchain
+ learning MERN stack
 
 hello, my name is kiran khade and <!--
 **kirankhade-git/kirankhade-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
